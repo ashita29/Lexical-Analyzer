@@ -5,3 +5,5 @@ This application also implements the Windows Presentation Foundation (WPF) which
 As this project is build in modules, so the first module i.e. Lexical Scanner, which used Tokenizer and SemiExpression is based on State-Pattern, in simple terms a state pattern changes class behavior based on its state. State patterns allows us to create objects representing the different states and one context object whose behavior will vary as the state object will change.
 The second module called 'Type-Based Package Dependency Analysis' which has complete functionality to create type-tables, dependency table to detect file dependency and implementing the Tarjan’s algorithm to detect files which form strong components.
 In the last module we have provided the GUI to the client and establish the communication channel between the key modules of the application.
+
+![](/Images/GUI.png)
