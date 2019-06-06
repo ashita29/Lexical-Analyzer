@@ -6,4 +6,6 @@ As this project is build in modules, so the first module i.e. Lexical Scanner, w
 The second module called 'Type-Based Package Dependency Analysis' which has complete functionality to create type-tables, dependency table to detect file dependency and implementing the Tarjan’s algorithm to detect files which form strong components.
 In the last module we have provided the GUI to the client and establish the communication channel between the key modules of the application.
 
+The below screenshot is the GUI of the application.
+
 ![](/Images/GUI.png)
